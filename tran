@@ -1,0 +1,1 @@
+mpicc -o zadacha.px -O2 -lm zadacha.c mycom.c mynet.c myio.c myprog.c
